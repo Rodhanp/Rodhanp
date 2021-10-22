@@ -14,9 +14,9 @@
 ### <img src="https://image.flaticon.com/icons/png/512/4496/4496201.png" width="25px"> More About Me:
 
 
-- 🔭 &nbsp;I’m currently transitioning to be a Masters Student at the **[University of Birmingham](https://www.birmingham.ac.uk/index.aspx)**  
+- 🔭 &nbsp;I’m currently a Masters Student at the **[University of Birmingham](https://www.birmingham.ac.uk/index.aspx)**  
 
-- 👀&nbsp;I’m interested in Neuro-Biotechnology, Bioinformatics, Computational Biology and Spirituality 
+- 👀&nbsp;I’m interested in Molecular, Computational Biology and Spirituality 
 
 - 🤝&nbsp;I’m looking to collaborate on projects involving applications of Computational Biology and Molecular Biology
 
