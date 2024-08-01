@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monopace&color=D468F7&center=true&vCenter=true&lines=Aspiring+Molecular+Biotechnologist;Autodidactic+Computational+Biologist;Heutagogical+Data+Scientist"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monopace&color=D468F7&center=true&vCenter=true&lines=Aspiring+Cancer+Researcher;Molecular+&+Computational+Biologist"></a>
 </p>
 <p align="center">
   <img src="https://github.com/Rodhanp/Rodhanp/blob/main/Clinical-Trials_.gif?raw=true">
@@ -14,9 +14,11 @@
 ### <img src="https://image.flaticon.com/icons/png/512/4496/4496201.png" width="25px"> More About Me:
 
 
-- 🔭 &nbsp;I’m currently a Masters Student at the **[University of Birmingham](https://www.birmingham.ac.uk/index.aspx)**  
+- 🔭 &nbsp;I’m currently a PhD Student at the **[University of Nottingham](https://www.nottingham.ac.uk/)**  
 
-- 👀&nbsp;I’m interested in Molecular, Computational Biology and Spirituality 
+- 🔭 &nbsp;I completed my Masters at the **[University of Birmingham](https://www.birmingham.ac.uk/index.aspx)**  
+
+- 👀&nbsp;I’m interested in Cancer Research, Molecular Biology and Computational Biology 
 
 - 🤝&nbsp;I’m looking to collaborate on projects involving applications of Computational Biology and Molecular Biology
 
